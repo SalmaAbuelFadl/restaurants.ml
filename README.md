@@ -1,4 +1,4 @@
-Project Summary
+**Project Summary**
 
 Level 1: Data Exploration and Analysis
 
@@ -20,7 +20,7 @@ Level 3: Predictive Modeling and Insights
 
 
 
-Conclusion
+**Conclusion**
 
 1. Data Overview and Exploration:
 
